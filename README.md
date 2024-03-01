@@ -14,7 +14,7 @@ The dataset used in this project is [Balaji Fast Food Sales.csv](https://www.kag
 - PowerBI: this was used to visualize the analyzed dataset.
 
 ### Exploratory Data Analysis
-this involved asking and answering key questions such as
+This involved asking and answering key questions such as
 - The total number of orders placed.
 - The total revenue and average order price.
 - The sales and order of items based on month, day, and time of day.
